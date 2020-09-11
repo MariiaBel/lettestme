@@ -4,7 +4,7 @@ import App from "./components/app/app.jsx";
 
 const Setting = {
     TIMER: 30
-}
+};
 
 
 ReactDOM.render(

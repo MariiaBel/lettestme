@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render App 1`] = `
+<article>
+  <header>
+    <h1>
+      TOEFL. Independent Writing
+    </h1>
+  </header>
+  <span>
+    TIMER: 
+    10
+  </span>
+  <form>
+    <textarea>
+       
+    </textarea>
+    <button
+      onClick={[Function]}
+    >
+      Next
+    </button>
+  </form>
+</article>
+`;
